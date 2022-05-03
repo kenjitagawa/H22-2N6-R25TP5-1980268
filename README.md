@@ -51,48 +51,48 @@ In order to properly simulate reading the audio file, the lyrics will only be re
 
 - [X] Set-up GitHub repository :heavy_check_mark: 
 - [ ] Define interface ***IChanson*** :x:
-    - [] Commit Message: FCT : TODO #02 Ajout de l’interface IChanson
+    - [ ] Commit Message: FCT : TODO #02 Ajout de l’interface IChanson
 
-- [] Define the abstract class ***Chanson*** :x:
-    - [] Commit Message: FCT : TODO #03 Ajout de la classe Chanson
+- [ ] Define the abstract class ***Chanson*** :x:
+    - [ ] Commit Message: FCT : TODO #03 Ajout de la classe Chanson
 
-- [] Define inherited class ***ChansonAAC*** :x:
-    - [] Commit Message: FCT : TODO #04 Ajout de la classe ChansonAAC
+- [ ] Define inherited class ***ChansonAAC*** :x:
+    - [ ] Commit Message: FCT : TODO #04 Ajout de la classe ChansonAAC
 
-- [] Define inherited class ***ChansonMP3*** :x:
-    - [] Commit Message: FCT : TODO #05 Ajout de la classe ChansonMP3
+- [ ] Define inherited class ***ChansonMP3*** :x:
+    - [ ] Commit Message: FCT : TODO #05 Ajout de la classe ChansonMP3
 
-- [] Define inherited class ***ChansonWMA*** :x:
-    - [] Commit Message: FCT : FCT : TODO #06 Ajout de la classe ChansonWMA
+- [ ] Define inherited class ***ChansonWMA*** :x:
+    - [ ] Commit Message: FCT : FCT : TODO #06 Ajout de la classe ChansonWMA
 
-- [] Define interface ***IBaladeur*** :x:
-    - [] Commit Message: FCT : TODO #07 Ajout de l’interface IBaladeur
+- [ ] Define interface ***IBaladeur*** :x:
+    - [ ] Commit Message: FCT : TODO #07 Ajout de l’interface IBaladeur
 
-- [] Define class ***Baladeur*** without completing the code for the methods. Ensure compilation is successful before push. :x:
-    - [] Commit Message: FCT : TODO #08 Ajout de la classe Baladeur
+- [ ] Define class ***Baladeur*** without completing the code for the methods. Ensure compilation is successful before push. :x:
+    - [ ] Commit Message: FCT : TODO #08 Ajout de la classe Baladeur
 
-- [] Complete method ***ConstruireLaListeDesChansons*** :x:
-    - [] Commit Message: FCT : TODO #09 Complétion de la méthode ConstruireLaListeDesChansons
+- [ ] Complete method ***ConstruireLaListeDesChansons*** :x:
+    - [ ] Commit Message: FCT : TODO #09 Complétion de la méthode ConstruireLaListeDesChansons
 
-- [] Complete code for ***AfficherLesChansons*** :x:
-    - [] Commit Message: FCT : TODO #10 Complétion de la méthode AfficherLesChansons
+- [ ] Complete code for ***AfficherLesChansons*** :x:
+    - [ ] Commit Message: FCT : TODO #10 Complétion de la méthode AfficherLesChansons
 
-- [] Complete method ***ConvertirVersAAC*** :x:
-    - [] Commit Message: FCT : TODO #11 Complétion de la méthode ConvertirVersAAC
+- [ ] Complete method ***ConvertirVersAAC*** :x:
+    - [ ] Commit Message: FCT : TODO #11 Complétion de la méthode ConvertirVersAAC
 
-- [] Complete method ***ConvertirVersMP3*** :x:
-    - [] Commit Message: FCT : TODO #12 Complétion de la méthode ConvertirVersMP3
+- [ ] Complete method ***ConvertirVersMP3*** :x:
+    - [ ] Commit Message: FCT : TODO #12 Complétion de la méthode ConvertirVersMP3
 
-- [] Complete method ***ConvertirVersWMA*** :x:
-    - [] Commit Message: FCT : TODO #13 Complétion de la méthode ConvertirVersWMA
+- [ ] Complete method ***ConvertirVersWMA*** :x:
+    - [ ] Commit Message: FCT : TODO #13 Complétion de la méthode ConvertirVersWMA
 
-- [] Define 4 tests for the class ***Consultation*** :x:
-    - [] Commit Message: FCT : TODO #14 Ajout des tests pour la classe Consultation
+- [ ] Define 4 tests for the class ***Consultation*** :x:
+    - [ ] Commit Message: FCT : TODO #14 Ajout des tests pour la classe Consultation
 
-- [] Define 4 test for the class ***Historique*** :x:
-    - [] Commit Message: FCT : TODO #15 Ajout des tests pour la classe Historique
+- [ ] Define 4 test for the class ***Historique*** :x:
+    - [ ] Commit Message: FCT : TODO #15 Ajout des tests pour la classe Historique
 
-- [] Complete the ***FrmPrincipal.cs*** in order to ensure the whole program works as expected.  :x:
+- [ ] Complete the ***FrmPrincipal.cs*** in order to ensure the whole program works as expected.  :x:
 
 
 ## TO-DO's continued :white_check_mark:
@@ -100,9 +100,9 @@ In order to properly simulate reading the audio file, the lyrics will only be re
 > ***Note:*** This part is **not** a part of the project. It will be for my own learning purposes. Meaning that the above list will most likely be completed before any of the ones below get completed. 
 
 - [X] Complete and well documented README :heavy_check_mark: 
-- [] Set CI/CD workflow in the repository. Tutorial can be found [here](https://www.cbtnuggets.com/blog/certifications/microsoft/setting-up-a-ci-pipeline-with-github-actions-in-c-with-examples)
-- [] Add GitHub Pages documentation website. 
-    - [] Add domain back to the repositories.
+- [ ] Set CI/CD workflow in the repository. Tutorial can be found [here](https://www.cbtnuggets.com/blog/certifications/microsoft/setting-up-a-ci-pipeline-with-github-actions-in-c-with-examples)
+- [ ] Add GitHub Pages documentation website. 
+    - [ ] Add domain back to the repositories.
 
 
 
