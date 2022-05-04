@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.IO;
 using System.Windows.Forms;
 
 namespace BaladeurMultiFormats
 {
-    abstract class Chanson : IChanson
+    public abstract class Chanson : IChanson
     {
 
         #region Propriétés et Champs
