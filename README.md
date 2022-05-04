@@ -49,17 +49,17 @@ In order to properly simulate reading the audio file, the lyrics will only be re
 > **\*Note: After each thing that gets completed below, you **MUST** do a git commit and git push!!!\***
 
 - [x] Set-up GitHub repository :heavy_check_mark:
-- [x] Define interface **_IChanson_** :x:
+- [x] Define interface **_IChanson_** :heavy_check_mark:
 
   - [x] Commit Message: FCT : TODO #02 Ajout de l’interface IChanson
 
-- [x] Define the abstract class **_Chanson_** :x:
+- [x] Define the abstract class **_Chanson_** :heavy_check_mark:
 
   - [x] Commit Message: FCT : TODO #03 Ajout de la classe Chanson
 
-- [ ] Define inherited class **_ChansonAAC_** :x:
+- [x] Define inherited class **_ChansonAAC_** :heavy_check_mark:
 
-  - [ ] Commit Message: FCT : TODO #04 Ajout de la classe ChansonAAC
+  - [x] Commit Message: FCT : TODO #04 Ajout de la classe ChansonAAC
 
 - [ ] Define inherited class **_ChansonMP3_** :x:
 
