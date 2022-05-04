@@ -50,8 +50,8 @@ In order to properly simulate reading the audio file, the lyrics will only be re
 >***Note: After each thing that gets completed below, you **MUST** do a git commit and git push!!!***
 
 - [X] Set-up GitHub repository :heavy_check_mark: 
-- [ ] Define interface ***IChanson*** :x:
-    - [ ] Commit Message: FCT : TODO #02 Ajout de l’interface IChanson
+- [X] Define interface ***IChanson*** :x:
+    - [X] Commit Message: FCT : TODO #02 Ajout de l’interface IChanson
 
 - [ ] Define the abstract class ***Chanson*** :x:
     - [ ] Commit Message: FCT : TODO #03 Ajout de la classe Chanson
