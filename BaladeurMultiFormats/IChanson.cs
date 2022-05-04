@@ -51,15 +51,33 @@ namespace BaladeurMultiFormats
         /// Écrit uniquement l'entête de la chanson.
         /// </summary>
         /// <param name="pobjFichier">Nom du fichier dans lequel l'entête sera ecrite</param>
-        void EcrireEntete(StreamReader pobjFichier);
+        void EcrireEntete(StreamWriter pobjFichier);
 
+        /// <summary>
+        /// Écrit uniquement les paroles de la chanson
+        /// </summary>
+        /// <param name="pobjFichier">Fichier dans lequel il faut ecrire les paroles</param>
+        /// <param name="pParoles">Paroles a ecrire dans le fichier</param>
         void EcrireParoles(StreamWriter pobjFichier, string pParoles);
 
+        /// <summary>
+        /// Lecture de l’en-tête du fichier soit uniquement la première ligne
+        /// </summary>
         void LireEntete();
 
+        /// <summary>
+        /// Obtient les paroles à partir d'un fichier binaire déjà ouvert.
+        /// </summary>
+        /// <param name="pobjFichier"></param>
+        /// <returns></returns>
         string LireParoles(StreamReader pobjFichier);
 
-        void SauterEntete(StreamWriter pobjFichier);
+
+        /// <summary>
+        /// Lit une ligne à partir du fichier passé en paramètre.
+        /// </summary>
+        /// <param name="pobjFichier">Fichier dans lequel l'entete se trouve</param>
+        void SauterEntete(StreamReader pobjFichier);
 
     }
 }
