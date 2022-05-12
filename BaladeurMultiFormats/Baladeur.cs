@@ -97,11 +97,11 @@ namespace BaladeurMultiFormats
 
         public void ConvertirVersAAC(int pIndex)
         {
-            //Chanson chanson = m_colChansons[pIndex];
-            //ChansonAAC chansonAAC = new ChansonAAC("Chansons", chanson.Artiste, chanson.Titre, chanson.Annee);
-            //chansonAAC.Ecrire(chanson.Paroles);
-            //File.Delete(chanson.NomFichier);
-            //m_colChansons[pIndex] = chansonAAC;
+            Chanson chanson = m_colChansons[pIndex];
+            ChansonAAC chansonAAC = new ChansonAAC("Chansons", chanson.Artiste, chanson.Titre, chanson.Annee);
+            chansonAAC.Ecrire(chanson.Paroles);
+            File.Delete(chanson.NomFichier);
+            m_colChansons[pIndex] = chansonAAC;
 
         }
 
