@@ -75,19 +75,19 @@ namespace BaladeurMultiFormats
 
         public void AfficherLesChansons(ListView pListView)
         {
-			//pListView.Items.Clear();
-			//pListView.BeginUpdate(); // Increases updating speed of the ListView
-			//foreach (Chanson colChanson in m_colChansons)
-			//{
-			//	ListViewItem listViewItem = new ListViewItem(colChanson.Artiste); // Artist column
-			//	listViewItem.SubItems.Add(colChanson.Titre); // Title Column
-			//	listViewItem.SubItems.Add(colChanson.Annee.ToString()); // Year column
-			//	listViewItem.SubItems.Add(colChanson.Format); // File format column
-			//	listViewItem.Tag = colChanson;
-			//	pListView.Items.Add(listViewItem); // Adding the item to the view
-			//}
-			//pListView.EndUpdate();
-		}
+            pListView.Items.Clear();
+            pListView.BeginUpdate(); // Increases updating speed of the ListView
+            foreach (Chanson colChanson in m_colChansons)
+            {
+                ListViewItem listViewItem = new ListViewItem(colChanson.Artiste); // Artist column
+                listViewItem.SubItems.Add(colChanson.Titre); // Title Column
+                listViewItem.SubItems.Add(colChanson.Annee.ToString()); // Year column
+                listViewItem.SubItems.Add(colChanson.Format); // File format column
+                listViewItem.Tag = colChanson;
+                pListView.Items.Add(listViewItem); // Adding the item to the view
+            }
+            pListView.EndUpdate();
+        }
 
         public Chanson ChansonAt(int pIndex)
         {
