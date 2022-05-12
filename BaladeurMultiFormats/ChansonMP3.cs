@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BaladeurMultiFormats
 {
-    internal class ChansonMP3 : Chanson
+    public class ChansonMP3 : Chanson
     {
         public override string Format { get { return "MP3"; } }
         public override void LireEntete()
