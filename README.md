@@ -61,41 +61,41 @@ In order to properly simulate reading the audio file, the lyrics will only be re
 
   - [x] Commit Message: FCT : TODO #04 Ajout de la classe ChansonAAC
 
-- [ ] Define inherited class **_ChansonMP3_** :x:
+- [x] Define inherited class **_ChansonMP3_** :x:
 
-  - [ ] Commit Message: FCT : TODO #05 Ajout de la classe ChansonMP3
+  - [x] Commit Message: FCT : TODO #05 Ajout de la classe ChansonMP3
 
-- [ ] Define inherited class **_ChansonWMA_** :x:
+- [x] Define inherited class **_ChansonWMA_** :x:
 
-  - [ ] Commit Message: FCT : FCT : TODO #06 Ajout de la classe ChansonWMA
+  - [x] Commit Message: FCT : TODO #06 Ajout de la classe ChansonWMA
 
-- [ ] Define interface **_IBaladeur_** :x:
+- [x] Define interface **_IBaladeur_** :x:
 
-  - [ ] Commit Message: FCT : TODO #07 Ajout de l’interface IBaladeur
+  - [x] Commit Message: FCT : TODO #07 Ajout de l’interface IBaladeur
 
-- [ ] Define class **_Baladeur_** without completing the code for the methods. Ensure compilation is successful before push. :x:
+- [x] Define class **_Baladeur_** without completing the code for the methods. Ensure compilation is successful before push. :x:
 
-  - [ ] Commit Message: FCT : TODO #08 Ajout de la classe Baladeur
+  - [x] Commit Message: FCT : TODO #08 Ajout de la classe Baladeur
 
-- [ ] Complete method **_ConstruireLaListeDesChansons_** :x:
+- [x] Complete method **_ConstruireLaListeDesChansons_** :x:
 
-  - [ ] Commit Message: FCT : TODO #09 Complétion de la méthode ConstruireLaListeDesChansons
+  - [x] Commit Message: FCT : TODO #09 Complétion de la méthode ConstruireLaListeDesChansons
 
-- [ ] Complete code for **_AfficherLesChansons_** :x:
+- [x] Complete code for **_AfficherLesChansons_** :x:
 
-  - [ ] Commit Message: FCT : TODO #10 Complétion de la méthode AfficherLesChansons
+  - [x] Commit Message: FCT : TODO #10 Complétion de la méthode AfficherLesChansons
 
-- [ ] Complete method **_ConvertirVersAAC_** :x:
+- [x] Complete method **_ConvertirVersAAC_** :x:
 
-  - [ ] Commit Message: FCT : TODO #11 Complétion de la méthode ConvertirVersAAC
+  - [x] Commit Message: FCT : TODO #11 Complétion de la méthode ConvertirVersAAC
 
-- [ ] Complete method **_ConvertirVersMP3_** :x:
+- [x] Complete method **_ConvertirVersMP3_** :x:
 
-  - [ ] Commit Message: FCT : TODO #12 Complétion de la méthode ConvertirVersMP3
+  - [x] Commit Message: FCT : TODO #12 Complétion de la méthode ConvertirVersMP3
 
-- [ ] Complete method **_ConvertirVersWMA_** :x:
+- [x] Complete method **_ConvertirVersWMA_** :x:
 
-  - [ ] Commit Message: FCT : TODO #13 Complétion de la méthode ConvertirVersWMA
+  - [x] Commit Message: FCT : TODO #13 Complétion de la méthode ConvertirVersWMA
 
 - [ ] Define 4 tests for the class **_Consultation_** :x:
 
