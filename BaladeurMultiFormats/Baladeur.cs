@@ -116,11 +116,11 @@ namespace BaladeurMultiFormats
 
         public void ConvertirVersWMA(int pIndex)
         {
-            //Chanson chanson = m_colChansons[pIndex];
-            //ChansonWMA chansonWMA = new ChansonWMA("Chansons", chanson.Artiste, chanson.Titre, chanson.Annee);
-            //chansonWMA.Ecrire(chanson.Paroles);
-            //File.Delete(chanson.NomFichier);
-            //m_colChansons[pIndex] = chansonWMA;
+            Chanson chanson = m_colChansons[pIndex];
+            ChansonWMA chansonWMA = new ChansonWMA("Chansons", chanson.Artiste, chanson.Titre, chanson.Annee);
+            chansonWMA.Ecrire(chanson.Paroles);
+            File.Delete(chanson.NomFichier);
+            m_colChansons[pIndex] = chansonWMA;
         }
     }
 }
