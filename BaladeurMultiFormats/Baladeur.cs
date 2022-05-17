@@ -91,9 +91,9 @@ namespace BaladeurMultiFormats
 
         public Chanson ChansonAt(int pIndex)
         {
-			throw new NotImplementedException();
-			//return m_colChansons[pIndex]; 
-		}
+            //throw new NotImplementedException();
+            return m_colChansons[pIndex];
+        }
 
         public void ConvertirVersAAC(int pIndex)
         {
