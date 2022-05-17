@@ -61,51 +61,51 @@ In order to properly simulate reading the audio file, the lyrics will only be re
 
   - [x] Commit Message: FCT : TODO #04 Ajout de la classe ChansonAAC
 
-- [x] Define inherited class **_ChansonMP3_** :x:
+- [x] Define inherited class **_ChansonMP3_** :heavy_check_mark:
 
   - [x] Commit Message: FCT : TODO #05 Ajout de la classe ChansonMP3
 
-- [x] Define inherited class **_ChansonWMA_** :x:
+- [x] Define inherited class **_ChansonWMA_** :heavy_check_mark:
 
   - [x] Commit Message: FCT : TODO #06 Ajout de la classe ChansonWMA
 
-- [x] Define interface **_IBaladeur_** :x:
+- [x] Define interface **_IBaladeur_** :heavy_check_mark:
 
   - [x] Commit Message: FCT : TODO #07 Ajout de l’interface IBaladeur
 
-- [x] Define class **_Baladeur_** without completing the code for the methods. Ensure compilation is successful before push. :x:
+- [x] Define class **_Baladeur_** without completing the code for the methods. Ensure compilation is successful before push. :heavy_check_mark:
 
   - [x] Commit Message: FCT : TODO #08 Ajout de la classe Baladeur
 
-- [x] Complete method **_ConstruireLaListeDesChansons_** :x:
+- [x] Complete method **_ConstruireLaListeDesChansons_** :heavy_check_mark:
 
   - [x] Commit Message: FCT : TODO #09 Complétion de la méthode ConstruireLaListeDesChansons
 
-- [x] Complete code for **_AfficherLesChansons_** :x:
+- [x] Complete code for **_AfficherLesChansons_** :heavy_check_mark:
 
   - [x] Commit Message: FCT : TODO #10 Complétion de la méthode AfficherLesChansons
 
-- [x] Complete method **_ConvertirVersAAC_** :x:
+- [x] Complete method **_ConvertirVersAAC_** :heavy_check_mark:
 
   - [x] Commit Message: FCT : TODO #11 Complétion de la méthode ConvertirVersAAC
 
-- [x] Complete method **_ConvertirVersMP3_** :x:
+- [x] Complete method **_ConvertirVersMP3_** :heavy_check_mark:
 
   - [x] Commit Message: FCT : TODO #12 Complétion de la méthode ConvertirVersMP3
 
-- [x] Complete method **_ConvertirVersWMA_** :x:
+- [x] Complete method **_ConvertirVersWMA_** :heavy_check_mark:
 
   - [x] Commit Message: FCT : TODO #13 Complétion de la méthode ConvertirVersWMA
 
-- [ ] Define 4 tests for the class **_Consultation_** :x:
+- [x] Define 4 tests for the class **_Consultation_** :heavy_check_mark:
 
-  - [ ] Commit Message: FCT : TODO #14 Ajout des tests pour la classe Consultation
+  - [x] Commit Message: FCT : TODO #14 Ajout des tests pour la classe Consultation
 
-- [ ] Define 4 test for the class **_Historique_** :x:
+- [x] Define 4 tests for the class **_Historique_** :heavy_check_mark:
 
-  - [ ] Commit Message: FCT : TODO #15 Ajout des tests pour la classe Historique
+  - [x] Commit Message: FCT : TODO #15 Ajout des tests pour la classe Historique
 
-- [ ] Complete the **_FrmPrincipal.cs_** in order to ensure the whole program works as expected. :x:
+- [x] Complete the **_FrmPrincipal.cs_** in order to ensure the whole program works as expected. :heavy_check_mark:
 
 ## TO-DO's continued :white_check_mark:
 
